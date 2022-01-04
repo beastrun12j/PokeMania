@@ -1,0 +1,3 @@
+/Users/pranavtiwari/CLionProjects/PokeMania/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pranavtiwari/CLionProjects/PokeMania/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pranavtiwari/CLionProjects/PokeMania/cmake-build-debug/CMakeFiles/PokeMania.dir

@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/pranavtiwari/CLionProjects/PokeMania
+-- Found SFML 2.5.1 in /Library/Frameworks/SFML.framework/Resources/CMake
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/pranavtiwari/CLionProjects/PokeMania/cmake-build-debug
