@@ -100,7 +100,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Team
+## Our Team
 
 [![Pranav Tiwari](https://img.icons8.com/doodle/192/000000/kuroo.png)](https://github.com/beastrun12j)  | [![<Your-Name>](<Your-Image-Link>)](<Your-ID>)
 ---|---
