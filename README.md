@@ -102,8 +102,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Team
 
-[![Pranav Tiwari](https://img.icons8.com/doodle/192/000000/kuroo.png)](https://github.com/beastrun12j)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+[![Pranav Tiwari](https://img.icons8.com/doodle/192/000000/kuroo.png)](https://github.com/beastrun12j)  | [![<Your-Name>](<Your-Image-Link>)](<Your-ID>)
 ---|---
-[Pranav Tiwari](https://github.com/beastrun12j) | [Quandl](https://www.quandl.com)
+[Pranav Tiwari](https://github.com/beastrun12j) | [<Your-Name>](<Your-ID>)
 
 <p align="right"><a href="#top">Back to top</a></p
