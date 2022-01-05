@@ -46,64 +46,64 @@
 /**
  * Medal FilePaths
  */
-#define BRONZE_MEDAL_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/bronze-medal.png"
-#define SILVER_MEDAL_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/silver-medal.png"
-#define GOLD_MEDAL_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/gold-medal.png"
+#define BRONZE_MEDAL_FILEPATH "resources/img/bronze-medal.png"
+#define SILVER_MEDAL_FILEPATH "resources/img/silver-medal.png"
+#define GOLD_MEDAL_FILEPATH "resources/img/gold-medal.png"
 
 /**
  * State FilePaths
  */
-#define SPLASH_SCENE_BACKGROUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/splash-background.png"
-#define MAIN_MENU_BACKGROUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/menu-background.png"
-#define GAME_BACKGROUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/gamescreen-background.png"
-#define GAME_OVER_BACKGROUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/menu-background.png"
+#define SPLASH_SCENE_BACKGROUND_FILEPATH "resources/img/splash-background.png"
+#define MAIN_MENU_BACKGROUND_FILEPATH "resources/img/menu-background.png"
+#define GAME_BACKGROUND_FILEPATH "resources/img/gamescreen-background.png"
+#define GAME_OVER_BACKGROUND_FILEPATH "resources/img/menu-background.png"
 
 /**
  * Text Assets Filepath
  */
-#define GAME_TITLE_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/game-title.png"
-#define GAME_OVER_TITLE_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/gameover-title.png"
-#define GAME_OVER_BODY_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/gameover-body.png"
+#define GAME_TITLE_FILEPATH "resources/img/game-title.png"
+#define GAME_OVER_TITLE_FILEPATH "resources/img/gameover-title.png"
+#define GAME_OVER_BODY_FILEPATH "resources/img/gameover-body.png"
 
 /**
  * Play Buttons Filepath
  */
-#define PLAY_BUTTON_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/play-button.png"
-#define GAME_OVER_RETRY_BUTTON_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/retry-button.png"
+#define PLAY_BUTTON_FILEPATH "resources/img/play-button.png"
+#define GAME_OVER_RETRY_BUTTON_FILEPATH "resources/img/retry-button.png"
 
 /**
  * Game Assets FilePath
  */
-#define PIPE_UP_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/pipe-up.png"
-#define PIPE_DOWN_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/pipe-down.png"
-#define SCORING_PIPE_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/invisible-scoringpipe.png"
-#define LAND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/land.png"
+#define PIPE_UP_FILEPATH "resources/img/pipe-up.png"
+#define PIPE_DOWN_FILEPATH "resources/img/pipe-down.png"
+#define SCORING_PIPE_FILEPATH "resources/img/invisible-scoringpipe.png"
+#define LAND_FILEPATH "resources/img/land.png"
 
 /**
  * Bird Animation Frames FilePath
  */
-#define BIRD_FRAME_1_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/bird-01.png"
-#define BIRD_FRAME_2_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/bird-02.png"
-#define BIRD_FRAME_3_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/bird-03.png"
-#define BIRD_FRAME_4_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/img/bird-04.png"
+#define BIRD_FRAME_1_FILEPATH "resources/img/bird-01.png"
+#define BIRD_FRAME_2_FILEPATH "resources/img/bird-02.png"
+#define BIRD_FRAME_3_FILEPATH "resources/img/bird-03.png"
+#define BIRD_FRAME_4_FILEPATH "resources/img/bird-04.png"
 
 /**
  * Sounds Filepath
  */
-#define HIT_SOUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/audio/hit.wav"
-#define POINT_SOUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/audio/point.wav"
-#define WING_SOUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/audio/wing.wav"
-#define BACKGROUND_SOUND_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/audio/background.wav"
+#define HIT_SOUND_FILEPATH "resources/audio/hit.wav"
+#define POINT_SOUND_FILEPATH "resources/audio/point.wav"
+#define WING_SOUND_FILEPATH "resources/audio/wing.wav"
+#define BACKGROUND_SOUND_FILEPATH "resources/audio/background.wav"
 
 /**
  * Highscore Text FilePath
  */
-#define HIGHSCORE_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/Highscore.txt"
+#define HIGHSCORE_FILEPATH "resources/Highscore.txt"
 
 /**
  * PokeFont Filepath
  */
-#define POKE_FONT_FILEPATH "/Users/pranavtiwari/CLionProjects/PokeMania/Game/resources/fonts/PokeFont.ttf"
+#define POKE_FONT_FILEPATH "resources/fonts/PokeFont.ttf"
 
 /**
  * Different GameStates
