@@ -25,8 +25,8 @@ PokeMania is a rendition over the very famous Flappy Bird Game with additional f
 
 ### Built With
 
-* [C++](https://nextjs.org/)
-* [SFML Library](https://reactjs.org/)
+* [C++](https://en.cppreference.com/w/)
+* [SFML Library](https://www.sfml-dev.org)
 
 #### About SFML:
 
@@ -87,7 +87,6 @@ Of course, It is not an all-in-one solution for all your game development needs 
 5. If on Windows, install **Git Bash**, and ensure the **"terminal.integrated.shell.windows"** property in the project's **settings.json** is set to **bash.exe**'s correct location (default: C:/Program Files/Git/bin/bash.exe). We'll be using this for the terminal in our workspace so that the Makefile can run in both Windows, Mac & Linux
 6. In **settings.json** Ensure **Path** in the **terminal.integrated.env.windows** object is set to the correct location of the compiler's executable (example: C:\\mingw32\\bin) and the SFML directory is correct as well. Keep in mind Paths should be separated by a semi-colon with no spaces between.
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
