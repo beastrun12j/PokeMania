@@ -5,7 +5,7 @@
     <img src="https://github.com/beastrun12j/PokeMania/blob/master/Game/resources/img/game-title.png" alt="Logo">
   </a>
 
-<h4 align="center">Pokemania is a Pokemon-Themed 2-D Single Person Arcade Game</h4>
+<h4 align="center">Pokemon-Themed 2-D Single Person Arcade Game</h4>
 
   <p align="center">
     <a href="https://github.com/beastrun12j/PokeMania/blob/master/Demo.mp4">View Demo</a>
