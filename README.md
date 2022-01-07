@@ -102,8 +102,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Our Team
 
-[![Pranav Tiwari](https://img.icons8.com/doodle/192/000000/kuroo.png)](https://github.com/beastrun12j)  | [![<Your-Name>](<Your-Image-Link>)](<Your-ID>)
+[![Pranav Tiwari](https://img.icons8.com/doodle/192/000000/kuroo.png)](https://github.com/beastrun12j)  | [![Rishabh Jain](https://avatars.githubusercontent.com/u/20703579?v=4)](https://github.com/Rishabhjain8)
 ---|---
-[Pranav Tiwari](https://github.com/beastrun12j) | [<Your-Name>](<Your-ID>)
+[Pranav Tiwari](https://github.com/beastrun12j) | [Rishabh Jain](https://github.com/Rishabhjain8)
 
 <p align="right"><a href="#top">Back to top</a></p
