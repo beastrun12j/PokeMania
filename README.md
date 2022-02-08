@@ -8,7 +8,7 @@
 <h4 align="center">Pokemon-Themed 2-D Single Person Arcade Game</h4>
 
   <p align="center">
-    <a href="https://github.com/beastrun12j/PokeMania/blob/master/Demo.mp4">View Demo</a>
+    <a href="https://youtu.be/YRy3RufFtNM">View Demo</a>
     ·
     <a href="https://github.com/beastrun12j/PokeMania/issues">Report Bug</a>
   </p>
@@ -102,8 +102,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Our Team
 
-| <img src="https://avatars.githubusercontent.com/u/79413577?v=4" alt="Pranav Tiwari" style="width:200px;"/> | <img src="https://avatars.githubusercontent.com/u/20703579?v=4" alt="Rishabh Jain" style="width:200px;"/> | <img src="https://c4.wallpaperflare.com/wallpaper/100/30/528/anime-naruto-itachi-uchiha-wallpaper-preview.jpg" alt="Sourab Paul" style="width:200px;"/>  | <img src="" alt="" style="width:200px;"/>  |
-|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---|---|
-| [Pranav Tiwari](https://github.com/beastrun12j)                                                          | [Rishabh Jain](https://github.com/Rishabhjain8)                                                           | [Sourab Paul](https://github.com/SourabHere)  |  []() |
+| <img src="https://avatars.githubusercontent.com/u/79413577?v=4" alt="Pranav Tiwari" style="width:200px;"/> | <img src="https://avatars.githubusercontent.com/u/20703579?v=4" alt="Rishabh Jain" style="width:200px;"/> | <img src="https://c4.wallpaperflare.com/wallpaper/100/30/528/anime-naruto-itachi-uchiha-wallpaper-preview.jpg" alt="Sourab Paul" style="width:200px;"/> |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---|
+| [Pranav Tiwari](https://github.com/beastrun12j)                                                          | [Rishabh Jain](https://github.com/Rishabhjain8)                                                           | [Sourab Paul](https://github.com/SourabHere)
 
 <p align="right"><a href="#top">Back to top</a></p>
